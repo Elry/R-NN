@@ -1,8 +1,8 @@
-# R-NN
-Neural networks wannabe
+# NN
+neuralnet in R and iris data set in Python
+<br/><br/>
+## R quick neuralnet
 
-
-## Installation basics\
 ```Bash
 $sudo pacman -S install tk
 $R
@@ -11,4 +11,9 @@ $R
 $RScript nn.r
 ```
 
+## Python quick iris dataset predictions
 
+```Bash
+$ pip install numpy && pip install sklearn
+$ python iris.py
+```
