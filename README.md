@@ -1,4 +1,4 @@
-# NN
+# Neural Networks training start
 neuralnet in R and iris data set in Python
 <br/><br/>
 ## R quick neuralnet
